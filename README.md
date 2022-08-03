@@ -16,3 +16,4 @@
 
 **Ссылка на гитхаб проекта**
 
+https://m5522826.github.io/Auto-magazine/
